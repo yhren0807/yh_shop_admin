@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a5cef86-1410-4579-892c-907140141615" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/yh_shop_common/target/" />
+    <ignored path="$PROJECT_DIR$/yh_shop_model/target/" />
+    <ignored path="$PROJECT_DIR$/yh_shop_system/target/" />
+    <ignored path="$PROJECT_DIR$/yh_shop_mybatis_plus_generator/target/" />
+    <ignored path="$PROJECT_DIR$/yh_shop_load/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/yh_shop_admin$YhShopLoadApplication.ic" NAME="YhShopLoadApplication Coverage Results" MODIFIED="1607610586367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="JwtAuthenticationTokenFilter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/config/JwtAuthenticationTokenFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vue.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yh_shop_obj/vue.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecurityConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/config/SecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="38" column="66" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="178" column="31" lean-forward="true" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PmsProductFullReductionController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsProductFullReductionController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PmsProductController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PmsProductLadderController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsProductLadderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PmsProductAttributeCategoryController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsProductAttributeCategoryController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PmsMemberPriceController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsMemberPriceController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PmsProductAttributeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsProductAttributeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>queryAttributeSetting</find>
+      <find>handleProductAttrChange</find>
+      <find>selectProductPics</find>
+      <find>selectServiceList</find>
+      <find>handleSearch</find>
+      <find>saveEdit</find>
+      <find>deleteUmsAdmin</find>
+      <find>updateUmsAdmin</find>
+      <find>saveUmsAdminRole</find>
+      <find>handleShowNextLevel</find>
+      <find>queryUmsResources</find>
+      <find>nameKeyword</find>
+      <find>getResourceByCate</find>
+      <find>allResourceCate</find>
+      <find>handleCheckAllChange</find>
+      <find>resourceList</find>
+      <find>handleCheckChange</find>
+      <find>roleOptions</find>
+      <find>valueRole</find>
+      <find>selectAdminId</find>
+      <find>editVisible</find>
+      <find>handleEdit</find>
+      <find>handleDelete</find>
+      <find>resourceForm</find>
+      <find>handleAdd</find>
+      <find>UmsResource</find>
+      <find>list</find>
+      <find>dialogVisible</find>
+      <find>handleDialogConfirm</find>
+      <find>collapse</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>id</replace>
+      <replace>brandName</replace>
+      <replace>recommendStatus</replace>
+      <replace>count</replace>
+      <replace>.data</replace>
+      <replace>.data.data</replace>
+      <replace>/yh_shop</replace>
+      <replace />
+      <replace>showStatus</replace>
+      <replace>showFrom</replace>
+      <replace>pmsProductAttributeList</replace>
+      <replace>updateUmsPermission</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\yh_perobjct\yh_shop_admin\yh_shop_system</dir>
+      <dir>D:\yh_perobjct\yh_shop_admin\yh_shop_obj\src\api\catepory</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/yh_shop_obj/src/api/ums/umsMenu.js" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/controller/UmsMenuController.java" />
+        <option value="$PROJECT_DIR$/yh_shop_obj/src/components/page/usm/TableUmsRole.vue" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/controller/UmsResourceController.java" />
+        <option value="$PROJECT_DIR$/yh_shop_obj/src/api/ums/umsRole.js" />
+        <option value="$PROJECT_DIR$/yh_shop_obj/src/api/ums/resource.js" />
+        <option value="$PROJECT_DIR$/yh_shop_obj/src/router/index.js" />
+        <option value="$PROJECT_DIR$/yh_shop_obj/src/components/page/usm/TableUmsReource.vue" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/controller/UmsResourceCategoryController.java" />
+        <option value="$PROJECT_DIR$/yh_shop_obj/src/components/page/usm/TableResourceCate.vue" />
+        <option value="$PROJECT_DIR$/yh_shop_obj/src/api/ums/umsResourceCate.js" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/resources/mapper/ums/UmsAdminMapper.xml" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/YhShopLoadApplication.java" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/resources/mapper/ums/UmsAdminRoleRelationMapper.xml" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/admin/mapper/TSysUserMapper.java" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/resources/mapper/ums/UmsAdminMapper.xml" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/entity/UmsRole.java" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/entity/UmsAdmin.java" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/entity/UmsResource.java" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/LoginJwt/LoginJwtUtils.java" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/config/utils/SecurityJwtUtils.java" />
+        <option value="$PROJECT_DIR$/yh_shop_system/pom.xml" />
+        <option value="$PROJECT_DIR$/yh_shop_common/pom.xml" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/test/java/com/fh/YhShopLoadApplicationTests.java" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/LoginJwt/AuthLogin.java" />
+        <option value="$PROJECT_DIR$/yh_shop_common/src/main/java/com/fh/utils/SecurityJwtUtils.java" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/config/RestAuthenticationEntryPoint.java" />
+        <option value="$PROJECT_DIR$/yh_shop_common/src/main/java/com/fh/utils/returns/ReturnCode.java" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/config/RestfulAccessDeniedHandler.java" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/AopLogs/AopController.java" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_brand/controller/UmsHomeBrandController.java" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/utils/prefixUtils.java" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/config/JwtAuthenticationTokenFilter.java" />
+        <option value="$PROJECT_DIR$/yh_shop_common/src/main/java/com/fh/utils/returns/CommonReturn.java" />
+        <option value="$PROJECT_DIR$/yh_shop_obj/src/components/page/Login.vue" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/mapper/UmsAdminMapper.java" />
+        <option value="$PROJECT_DIR$/yh_shop_mybatis_plus_generator/src/main/resources/mapper/ums/UmsAdminMapper.xml" />
+        <option value="$PROJECT_DIR$/yh_shop_obj/src/components/common/Sidebar.vue" />
+        <option value="$PROJECT_DIR$/yh_shop_obj/src/api/index.js" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/controller/UmsAdminController.java" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/service/IUmsAdminService.java" />
+        <option value="$PROJECT_DIR$/yh_shop_obj/src/components/common/Header.vue" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/Expen/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/Login/LoginController.java" />
+        <option value="$PROJECT_DIR$/yh_shop_obj/src/components/page/usm/TableUmsMenu.vue" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/config/bo/AdminUserDetails.java" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/service/impl/UmsAdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsProductAttributeController.java" />
+        <option value="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="F:\软件\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="yh_shop_admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="yh_shop_admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/yh_shop_obj/node_modules" />
+    <handled-path value="$PROJECT_DIR$/yh_shop_vue/node_modules" />
+    <handled-path value="$PROJECT_DIR$/yh_shop_web/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/yh_shop_obj/package.json" />
+      <path value="$PROJECT_DIR$/yh_shop_vue/package.json" />
+      <path value="$PROJECT_DIR$/yh_shop_web/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-19" />
+    <option name="width" value="1943" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_load" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_load" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_load" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_load" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_load" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_load" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_load" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_load" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_load" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_load" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_mybatis_plus_generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_mybatis_plus_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_mybatis_plus_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_mybatis_plus_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_mybatis_plus_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_mybatis_plus_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_mybatis_plus_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_mybatis_plus_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_mybatis_plus_generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_obj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+              <item name="attr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+              <item name="attr" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yh_shop_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yh_shop_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="yh_shop_system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../securitydome" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_mybatis_plus_generator\src\main\resources" />
+      <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_load\src\main\resources" />
+      <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_system\src\main\resources" />
+      <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_mybatis_plus_generator\src\main\resources\mapper\ums" />
+      <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_obj\src\components\page" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.fh" />
+      <recent name="com" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fh.config.utils" />
+      <recent name="com.fh.Expen" />
+      <recent name="com.fh.upload" />
+      <recent name="com.fh.utils.AopLogs" />
+      <recent name="com.fh.bo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_obj\src\api\ums" />
+      <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_obj\src\components\page\newfile\component\usm" />
+      <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_obj\src\components\page\newfileUtils" />
+      <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_obj\src\assets" />
+      <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_obj\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.YhShopLoadApplication">
+    <configuration name="MD5Util" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fh.utils.password.MD5Util" />
+      <module name="yh_shop_common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fh.utils.password.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MybatisPlusCodeGenerator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fh.generator.MybatisPlusCodeGenerator" />
+      <module name="yh_shop_mybatis_plus_generator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fh.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="YhShopLoadApplicationTests.bCryptPasswordEncoder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yh_shop_load" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.fh" />
+      <option name="MAIN_CLASS_NAME" value="com.fh.YhShopLoadApplicationTests" />
+      <option name="METHOD_NAME" value="bCryptPasswordEncoder" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="YhShopLoadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yh_shop_load" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fh.YhShopLoadApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.YhShopLoadApplication" />
+      <item itemvalue="Application.MybatisPlusCodeGenerator" />
+      <item itemvalue="Application.MD5Util" />
+      <item itemvalue="JUnit.YhShopLoadApplicationTests.bCryptPasswordEncoder" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.YhShopLoadApplicationTests.bCryptPasswordEncoder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a5cef86-1410-4579-892c-907140141615" name="Default" comment="" />
+      <created>1607309923305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607309923305</updated>
+      <workItem from="1607309925607" duration="4328000" />
+      <workItem from="1607314360943" duration="1966000" />
+      <workItem from="1607320698094" duration="7617000" />
+      <workItem from="1607387050654" duration="3603000" />
+      <workItem from="1607409055391" duration="25000" />
+      <workItem from="1607413898856" duration="60000" />
+      <workItem from="1607413975516" duration="34000" />
+      <workItem from="1607414319147" duration="366000" />
+      <workItem from="1607414810330" duration="26980000" />
+      <workItem from="1607481189602" duration="6675000" />
+      <workItem from="1607493635646" duration="23534000" />
+      <workItem from="1607525310822" duration="21333000" />
+      <workItem from="1607600110468" duration="135000" />
+      <workItem from="1607600318868" duration="10137000" />
+      <workItem from="1607610515627" duration="13558000" />
+      <workItem from="1607770553930" duration="3578000" />
+      <workItem from="1607826663757" duration="76389000" />
+      <workItem from="1608033936626" duration="84925000" />
+      <workItem from="1608437002778" duration="55654000" />
+      <workItem from="1608599952196" duration="6435000" />
+      <workItem from="1608694993760" duration="14258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="YhShopLoadApplicationTests_bCryptPasswordEncoder - 2020.12.20 at 19h 46m 10s.xml">
+      <configuration name="YhShopLoadApplicationTests.bCryptPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YhShopLoadApplicationTests_bCryptPasswordEncoder - 2020.12.20 at 19h 47m 09s.xml">
+      <configuration name="YhShopLoadApplicationTests.bCryptPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YhShopLoadApplicationTests_bCryptPasswordEncoder - 2020.12.20 at 19h 47m 47s.xml">
+      <configuration name="YhShopLoadApplicationTests.bCryptPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YhShopLoadApplicationTests_bCryptPasswordEncoder - 2020.12.20 at 19h 50m 09s.xml">
+      <configuration name="YhShopLoadApplicationTests.bCryptPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YhShopLoadApplicationTests_bCryptPasswordEncoder - 2020.12.20 at 19h 50m 27s.xml">
+      <configuration name="YhShopLoadApplicationTests.bCryptPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YhShopLoadApplicationTests_bCryptPasswordEncoder - 2020.12.20 at 19h 50m 45s.xml">
+      <configuration name="YhShopLoadApplicationTests.bCryptPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YhShopLoadApplicationTests_bCryptPasswordEncoder - 2020.12.20 at 20h 09m 32s.xml">
+      <configuration name="YhShopLoadApplicationTests.bCryptPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YhShopLoadApplicationTests_bCryptPasswordEncoder - 2020.12.20 at 20h 11m 00s.xml">
+      <configuration name="YhShopLoadApplicationTests.bCryptPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YhShopLoadApplicationTests_bCryptPasswordEncoder - 2020.12.20 at 21h 41m 04s.xml">
+      <configuration name="YhShopLoadApplicationTests.bCryptPasswordEncoder" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="361590000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-15" y="0" width="1567" height="840" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5016567" side_tool="true" weight="0.3846154" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3280318" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3286945" />
+      <window_info id="Structure" order="6" sideWeight="0.18181819" side_tool="true" weight="0.24784054" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49900597" weight="0.5661451" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32722145" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.42975205" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49834326" weight="0.24643874" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.08137931" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49966776" visible="true" weight="0.18492177" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.8181818" visible="true" weight="0.23127899" />
+      <window_info id="Web" order="7" sideWeight="0.48671097" side_tool="true" weight="0.17408638" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info id="Favorites" order="4" sideWeight="0.50189394" side_tool="true" weight="0.16591349" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="14" weight="0.32863188" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32863188" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.08137931" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="bottom" id="TypeScript" order="14" weight="0.32863188" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49834326" weight="0.24643874" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.50189394" side_tool="true" weight="0.16591349" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49966776" weight="0.074074075" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5016567" side_tool="true" weight="0.3846154" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.43019944" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32722145" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3280318" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.8181818" visible="true" weight="0.28031808" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3286945" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info id="Web" order="7" sideWeight="0.48671097" side_tool="true" weight="0.17408638" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info id="Structure" order="6" sideWeight="0.18181819" side_tool="true" weight="0.24784054" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32863188" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" sideWeight="0.49900597" visible="true" weight="0.4871795" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="146" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/src/components/page/Tabs.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/src/components/common/Tags.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/src/components/common/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_common/src/main/java/com/fh/utils/SecurityJwtUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="88" column="29" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/controller/UmsMenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="72" column="16" lean-forward="true" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/entity/UmsMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="67" column="23" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/mapper/UmsAdminMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="50" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_mybatis_plus_generator/src/main/resources/mapper/ums/UmsAdminMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="17" column="139" lean-forward="true" selection-start-line="17" selection-start-column="139" selection-end-line="17" selection-end-column="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/src/components/common/Sidebar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_vue/node_modules/element-ui/packages/dropdown/src/dropdown-item.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/controller/UmsAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/Expen/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/src/components/common/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/src/components/common/Header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1704">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/src/components/page/usm/TableUmsMenu.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/LoginJwt/AuthLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/YhShopLoadApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/软件/apache-maven-3.6.1-bin/jarWeb/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="57" column="71" lean-forward="true" selection-start-line="57" selection-start-column="71" selection-end-line="57" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/软件/apache-maven-3.6.1-bin/jarWeb/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.jar!/org/springframework/security/config/annotation/authentication/builders/AuthenticationManagerBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/软件/apache-maven-3.6.1-bin/jarWeb/org/springframework/security/spring-security-core/5.3.4.RELEASE/spring-security-core-5.3.4.RELEASE.jar!/org/springframework/security/authentication/AbstractAuthenticationToken.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/软件/apache-maven-3.6.1-bin/jarWeb/org/springframework/security/spring-security-core/5.3.4.RELEASE/spring-security-core-5.3.4.RELEASE.jar!/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/软件/apache-maven-3.6.1-bin/jarWeb/org/springframework/security/spring-security-core/5.3.4.RELEASE/spring-security-core-5.3.4.RELEASE.jar!/org/springframework/security/core/Authentication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/软件/apache-maven-3.6.1-bin/jarWeb/org/springframework/security/spring-security-core/5.3.4.RELEASE/spring-security-core-5.3.4.RELEASE.jar!/org/springframework/security/core/context/SecurityContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/软件/apache-maven-3.6.1-bin/jarWeb/org/springframework/security/spring-security-core/5.3.4.RELEASE/spring-security-core-5.3.4.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/软件/apache-maven-3.6.1-bin/jarWeb/org/springframework/security/spring-security-core/5.3.4.RELEASE/spring-security-core-5.3.4.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetails.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/config/bo/AdminUserDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/src/utils/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_common/src/main/java/com/fh/utils/redis/RedisCacheConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="31" column="100" lean-forward="true" selection-start-line="31" selection-start-column="100" selection-end-line="31" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_common/src/main/java/com/fh/utils/redis/FastJsonRedisSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_load/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/src/components/page/newfile/TableAttributeCategory.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/src/components/page/usm/checkResouece.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/src/components/page/usm/TableUmsRole.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="98" column="46" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/软件/apache-maven-3.6.1-bin/jarWeb/org/springframework/security/spring-security-config/5.3.4.RELEASE/spring-security-config-5.3.4.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/EnableWebSecurity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="103" lean-forward="true" selection-start-line="19" selection-start-column="103" selection-end-line="19" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/service/IUmsAdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/t_ums/service/impl/UmsAdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="88" column="59" selection-start-line="88" selection-start-column="59" selection-end-line="88" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/Login/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsSkuStockController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsProductAttributeValueController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsProductAttributeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_obj/vue.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsProductLadderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsProductFullReductionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsMemberPriceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_system/src/main/java/com/fh/attr/controller/PmsProductAttributeCategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="38" column="66" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="178" column="31" lean-forward="true" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/config/JwtAuthenticationTokenFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>yh_shop_load</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.fh.t_ums.mapper.UmsAdminMapper">
+
+    <select  id="queryResourceByAdmin" parameterType="java.lang.Long" resultType="com.fh.t_ums.entity.UmsResource">
+
+SELECT rc.id,rc.keyword,rc.`name` FROM ums_resource rc WHERE rc.id IN (SELECT rs.resource_id FROM ums_role_resource_relation rs WHERE rs.role_id IN (SELECT ar.role_id  FROM ums_admin_role_relation ar where ar.admin_id=#{id})) and rc.keyword IS NOT NULL
+GROUP BY rc.`name` ORDER BY rc.id
+    </select>
+
+    <select  id="queryRoleByAdmin" parameterType="java.lang.Long" resultType="com.fh.t_ums.entity.UmsRole">
+SELECT rs.id,rs.keyword,rs.`name` FROM ums_role rs WHERE rs.id IN (SELECT ar.role_id  FROM ums_admin_role_relation ar where ar.admin_id=#{id})
+    </select>
+
+     <select id="queryMenuByAdmin" parameterType="java.lang.String" resultType="com.fh.t_ums.entity.UmsMenu">
+
+     SELECT um.id,um.icon,um.title,um.`name`,um.parent_id,um.`level` FROM ums_menu um WHERE um.id IN (SELECT DISTINCT urm.menu_id FROM ums_role_menu_relation urm WHERE urm.role_id IN
+(SELECT uar.role_id FROM ums_admin_role_relation uar WHERE uar.admin_id IN (SELECT ua.id FROM ums_admin ua where ua.username=#{username})));
+
+     </select>
+
+</mapper>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.fh.t_brand.mapper.UmsHomeBrandMapper">
+
+    <select  id="queryBrand"  resultType="com.fh.t_brand.entity.UmsHomeBrand" >
+       SELECT s.id,s.brand_id brandId,s.brand_name brandName,s.recommend_status recommendStatus,s.sort FROM ums_home_brand s
+       LIMIT #{pageBean.startIndex},#{pageBean.limit}
+    </select>
+
+    <select  id="selectUserLong"  resultType="java.lang.Long" >
+       SELECT COUNT(id) FROM ums_home_brand
+    </select>
+
+</mapper>
