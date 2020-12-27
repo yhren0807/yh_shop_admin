@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a5cef86-1410-4579-892c-907140141615" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/yh_shop_admin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yh_shop_load/src/main/resources/banner.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yh_shop_load/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yh_shop_load/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/Aop/entity/TAop.java" beforeDir="false" afterPath="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/Aop/entity/TAop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/LoginJwt/AuthLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/yh_shop_load/src/main/java/com/fh/LoginJwt/AuthLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yh_shop_load/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yh_shop_load/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,7 +286,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.obroom.plugin.mybatislog.indexNum" value="8" />
     <property name="js.last.introduce.type" value="VAR" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/yh_shop_load/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -315,11 +306,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\yh_shop_admin\yh_shop_admin\yh_shop_load\src\main\resources" />
       <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_obj\src\api\ums" />
       <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_obj\src\components\page\newfile\component\usm" />
       <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_obj\src\components\page\newfileUtils" />
       <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_obj\src\assets" />
-      <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_obj\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\yh_perobjct\yh_shop_admin\yh_shop_mybatis_plus_generator\src\main\resources" />
@@ -371,19 +362,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -485,7 +463,9 @@
       <workItem from="1609038970834" duration="160000" />
       <workItem from="1609039156903" duration="102000" />
       <workItem from="1609039270275" duration="835000" />
-      <workItem from="1609040117921" duration="6716000" />
+      <workItem from="1609040117921" duration="9620000" />
+      <workItem from="1609060305050" duration="23000" />
+      <workItem from="1609066643998" duration="509000" />
     </task>
     <servers />
   </component>
