@@ -8,10 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="yh_shop_common" />
+        <module name="yh_shop_system" />
+        <module name="yh_shop_mybatis_plus_generator" />
         <module name="yh_shop_load" />
         <module name="yh_shop_model" />
-        <module name="yh_shop_mybatis_plus_generator" />
-        <module name="yh_shop_system" />
       </profile>
     </annotationProcessing>
   </component>

@@ -52,7 +52,6 @@ public class AuthLogin {
         if (commonReturn.getCode()!=110){
             return commonReturn;
         }
-
         Claims claims= (Claims) commonReturn.getData();
         String userId = String.valueOf(claims.get("userId"));
         String accessKey=pre_token+userId+":"+token;
@@ -64,7 +63,6 @@ public class AuthLogin {
         //续签
         redisTemplate.opsForValue().set(accessKey,createTime);
         redisTemplate.expire(accessKey,2,TimeUnit.MINUTES);
-
         Object proceed=null;
         try {
             proceed = joinPoint.proceed();
@@ -72,10 +70,6 @@ public class AuthLogin {
             throwable.printStackTrace();
             throw throwable;
         }
-
         return proceed;
     }
-
-
-
 }
